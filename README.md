@@ -1,4 +1,4 @@
-# CSE152B Spring 2022 HW4
+# CSE152B Spring 2023 HW3
 ## Homework instructions
 
 The homework is in the Jupyter Notebook ``hw4-CSE152B-release.ipynb``.
@@ -14,7 +14,7 @@ The homework is in the Jupyter Notebook ``hw4-CSE152B-release.ipynb``.
  (c) Rename your submission files as Lastname_Firstname.ipynb and Lastname_Firstname.pdf.  
  (d) Correctly select pages for each answer on Gradescope to allow proper grading.
 
-6. **Due date:** Assignments are due Fri, Jun 3, by 11pm PST.
+6. **Due date:** Assignments are due Sat, Jun 10, by 11:59pm PST.
 
 ## Instructions for setting up the conda environment locally
 
